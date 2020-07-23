@@ -4,7 +4,7 @@
 #逐一读取ip.txt中的ip列表
 #通过masscan扫描网段
 #nmap识别端口服务
-#生成report.csv列表
+#生成report.csv列表 
 
 
 import re
